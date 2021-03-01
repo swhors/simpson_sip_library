@@ -1,0 +1,146 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "SKYSIPUA"=.\os\windows\SKYSIPUA\SKYSIPUA.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "Skyproxyd"=.\os\windows\Skyproxyd\Skyproxyd.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name hash_library
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name libinterface
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name libskyconf
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name libskyproxys
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name libskyregister
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name sip_parse_lib
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name sky_common_lib
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "hash_library"=.\os\windows\hash_library\hash_library.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "libinterface"=.\os\windows\libinterface\libinterface.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "libskyconf"=.\os\windows\libskyconf\libskyconf.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "libskyproxys"=.\os\windows\libskyproxys\libskyproxys.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "libskyregister"=.\os\windows\libskyregister\libskyregister.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "sip_parse_lib"=.\os\windows\sip_parse_lib\sip_parse_lib.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "sky_common_lib"=.\os\windows\sky_common_lib\sky_common_lib.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+
